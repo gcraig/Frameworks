@@ -6,7 +6,7 @@ List of application frameworks, useful in CSR development, learning, and especia
 3. Various
 <hr>
 
-## Web Frameworks  
+## WEB
 Responsive, Mobile Front-End
 
 ### Bootstrap 3
@@ -37,10 +37,6 @@ https://html5boilerplate.com/
 MVC, Modules, Directives, Templates  
 https://angularjs.org/
 
-### Initial State  
-Dashboards  
-http://www.initialstate.com/  
-
 ### Popup Windows
 An alternative to original alert, confirm and prompt  
 https://gao-sun.github.io/x0popup/
@@ -48,7 +44,11 @@ https://gao-sun.github.io/x0popup/
 ### CakePHP
 http://cakephp.org/
 
-## Database  
+## DATABASE  
+
+### Initial State  
+Dashboards  
+http://www.initialstate.com/  
 
 ### JOOQ
 http://www.jooq.org/  
@@ -59,7 +59,7 @@ http://www.openxava.org/ate/crud-java-framework
 ### Cato  
 http://www.catocrudgenerator.com/  
 
-## Various
+## VARIOUS  
 
 ### Guava  
 https://github.com/google/guava  
