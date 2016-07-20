@@ -29,6 +29,10 @@ https://html5boilerplate.com/
 MVC, Modules, Directives, Templates  
 https://angularjs.org/
 
+### Initial State  
+Dashboards  
+http://www.initialstate.com/  
+
 ### Popup Windows
 An alternative to original alert, confirm and prompt  
 https://gao-sun.github.io/x0popup/
