@@ -1,5 +1,13 @@
-# Web Frameworks<br> Responsive, Mobile Front-End
-List of application frameworks, useful in CSR development, learning, and especially project delivery.
+# Application Frameworks  
+List of application frameworks, useful in CSR development, learning, and especially project delivery.  
+
+1. Web  
+2. Database
+3. Various
+<hr>
+
+## Web Frameworks  
+Responsive, Mobile Front-End
 
 ### Bootstrap 3
 http://getbootstrap.com/
@@ -40,3 +48,18 @@ https://gao-sun.github.io/x0popup/
 ### CakePHP
 http://cakephp.org/
 
+## Database  
+
+### JOOQ
+http://www.jooq.org/  
+
+### OpenXava  
+http://www.openxava.org/ate/crud-java-framework  
+
+### Cato  
+http://www.catocrudgenerator.com/  
+
+## Various
+
+### Guava  
+https://github.com/google/guava  
