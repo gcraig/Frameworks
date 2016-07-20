@@ -9,6 +9,15 @@ List of application frameworks, useful in CSR development, learning, and especia
 ## WEB
 Responsive, Mobile Front-End
 
+### AppFuse  
+http://appfuse.org/display/APF/Home  
+
+### JHipster  
+http://jhipster.github.io/  
+
+### Play **  
+https://playframework.com/  
+
 ### Bootstrap 3
 http://getbootstrap.com/
 
@@ -46,6 +55,9 @@ http://cakephp.org/
 
 ## DATABASE  
 
+### LightAdmin  
+http://lightadmin.org/  
+
 ### Initial State  
 Dashboards  
 http://www.initialstate.com/  
@@ -58,6 +70,15 @@ http://www.openxava.org/ate/crud-java-framework
 
 ### Cato  
 http://www.catocrudgenerator.com/  
+
+### SimpleORM  
+http://www.simpleorm.org/  
+
+### Hibernate  
+http://hibernate.org/  
+
+### reinCRUD  
+https://code.google.com/archive/p/reincrud/  
 
 ## VARIOUS  
 
